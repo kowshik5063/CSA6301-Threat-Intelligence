@@ -21,3 +21,4 @@ decrypted_text = decrypt(ciphertext, shift)
 print("Plaintext:", plaintext)
 print("Ciphertext:", ciphertext)
 print("Decrypted:", decrypted_text)
+<img width="887" height="837" alt="Screenshot 2026-07-11 132343" src="https://github.com/user-attachments/assets/3c51701c-b1bf-4e9b-8be4-410a8bf2dda5" />
