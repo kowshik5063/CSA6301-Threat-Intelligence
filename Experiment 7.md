@@ -21,7 +21,6 @@ with open("login_attempts.log", "r") as f:
                 ip = match.group(1)
                 failed_by_ip[ip] += 1
 
-
 print("Failed login attempts by IP:")
 
 for ip, count in failed_by_ip.items():
